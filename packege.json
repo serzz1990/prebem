@@ -1,0 +1,24 @@
+{
+	"version": "0.1.0",
+	"contributors": [
+		{
+			"name": "Savin Sergey",
+			"email": "serzz1990@gmail.com"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/serzz1990/prebem.git"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"gulp": "^3.8.11"
+	},
+	"engineStrict": true,
+	"os": [
+		"linux"
+	],
+	"engines": {
+		"node": ">=0.8.0"
+	}
+}
