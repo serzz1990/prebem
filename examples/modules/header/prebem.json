@@ -1,4 +1,4 @@
 {
-	"css" : "build/",
-	"html": "build/"
+	"stylePath" : "build/",
+	"htmlPath": "build/"
 }
